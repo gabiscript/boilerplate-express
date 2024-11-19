@@ -51,4 +51,3 @@ This project is part of the **Back End Development and APIs** course on freeCode
 - **Express**
 - **dotenv**
 - **body-parser**
-```
