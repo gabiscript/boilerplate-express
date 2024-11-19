@@ -1,6 +1,3 @@
-Claro! Aqui está o conteúdo do `README.md` formatado corretamente para o GitHub:
-
-```markdown
 # Backend API Project - freeCodeCamp
 
 This project is part of the **Back End Development and APIs** course on freeCodeCamp. It is a simple Express-based API, demonstrating how to handle various HTTP methods, middleware, and request body parsing in Node.js.
@@ -55,5 +52,3 @@ This project is part of the **Back End Development and APIs** course on freeCode
 - **dotenv**
 - **body-parser**
 ```
-
-Salve o conteúdo acima no arquivo `README.md` no seu repositório GitHub. Esse formato já está pronto para ser visualizado no GitHub ou em qualquer editor de Markdown. Se precisar de algo mais, me avise! 😊
